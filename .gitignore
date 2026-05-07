@@ -21,7 +21,7 @@ build/
 user_db_data/
 wallet_db_data/
 booking_db_data/
-.devcontainer/local-settings.json
+
 
 ## --- VS Code & IDEs ---
 .vscode/
@@ -30,5 +30,4 @@ booking_db_data/
 .DS_Store
 
 ## --- Environment Secrets ---
-.env
-appsettings.Development.json
+
