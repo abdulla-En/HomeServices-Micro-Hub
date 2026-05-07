@@ -41,6 +41,9 @@ The entire environment is containerized for consistent development across the te
 3. **VS Code Extensions** (install from Extensions tab):
    - `Dev Containers` by Microsoft
    - `Database Client` by Weijan Chen
+   - `Extension Pack for Java` by Microsoft
+  (includes Language Support for Java by Red Hat)
+  → Without this: no auto-complete or error highlighting in Spring and Jakarta EE
 
 ---
 
